@@ -1,0 +1,18 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1378646578000 1577 e89816f7cfb689199cba8169acbc14fc94f5999d /home/peng/AndroidStudioProjects/Phone_BillsProject/Phone_Bills/build/classes/debug/com/firstAndroid/phonebills/MainActivity.class
+1378646424000 824 7afc446703e92e670b031edc59957fe6248ee749 /home/peng/AndroidStudioProjects/Phone_BillsProject/Phone_Bills/build/classes/debug/com/firstAndroid/phonebills/R.class
+1378646578000 2273 89108f2e886e16e38cc0d1b2dd21b2c17faab3e7 /home/peng/AndroidStudioProjects/Phone_BillsProject/Phone_Bills/build/classes/debug/com/firstAndroid/phonebills/MainActivity$1.class
+1378646578000 939 9146ef8d74b95e914b815ce347a346b145810577 /home/peng/AndroidStudioProjects/Phone_BillsProject/Phone_Bills/build/classes/debug/com/firstAndroid/phonebills/MainActivity$1$1.class
+1378646424000 650 d24bf261b1e2b1ec5cdfc47495eef6afe99f9f98 /home/peng/AndroidStudioProjects/Phone_BillsProject/Phone_Bills/build/classes/debug/com/firstAndroid/phonebills/R$string.class
+1378643757000 434 2497b7e8f7dd1273911025b532b138c412fedaeb /home/peng/AndroidStudioProjects/Phone_BillsProject/Phone_Bills/build/classes/debug/com/firstAndroid/phonebills/R$drawable.class
+1378643757000 415 a7034c5d10e03d7420429a9e34b8afbdfc01153f /home/peng/AndroidStudioProjects/Phone_BillsProject/Phone_Bills/build/classes/debug/com/firstAndroid/phonebills/R$menu.class
+1378643757000 488 3a3122334586cee86bcc701c948e8bc83fc306eb /home/peng/AndroidStudioProjects/Phone_BillsProject/Phone_Bills/build/classes/debug/com/firstAndroid/phonebills/R$dimen.class
+1378643757000 430 a994a3198ff65481bd60ec647ccd9ca98894532b /home/peng/AndroidStudioProjects/Phone_BillsProject/Phone_Bills/build/classes/debug/com/firstAndroid/phonebills/R$layout.class
+1378643757000 417 37b8aa5fb83d1092f142bdde6a4baeade69ea8ab /home/peng/AndroidStudioProjects/Phone_BillsProject/Phone_Bills/build/classes/debug/com/firstAndroid/phonebills/R$color.class
+1378623747000 363 a92f4c6c0d8620297cd7368c800fd7ae70859795 /home/peng/AndroidStudioProjects/Phone_BillsProject/Phone_Bills/build/classes/debug/com/firstAndroid/phonebills/BuildConfig.class
+1378643757000 549 d2b1cf615c500d9a107d9cff910d475a4d253404 /home/peng/AndroidStudioProjects/Phone_BillsProject/Phone_Bills/build/classes/debug/com/firstAndroid/phonebills/R$id.class
+1378623747000 367 89cc93d1e8268c229d521e0f1f57316fa2a00fa3 /home/peng/AndroidStudioProjects/Phone_BillsProject/Phone_Bills/build/classes/debug/com/firstAndroid/phonebills/R$attr.class
+1378646424000 458 5cf5e36386710f226c186c85681cfa6d585d0f46 /home/peng/AndroidStudioProjects/Phone_BillsProject/Phone_Bills/build/classes/debug/com/firstAndroid/phonebills/R$style.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /home/peng/software/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar

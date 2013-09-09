@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Phone_Bills/Phone_Bills.iml" filepath="$PROJECT_DIR$/Phone_Bills/Phone_Bills.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Phone_BillsProject.iml" filepath="$PROJECT_DIR$/Phone_BillsProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Phone_Bills/查流量话费.iml" filepath="$PROJECT_DIR$/Phone_Bills/查流量话费.iml" />
+    </modules>
+  </component>
+</project>
+

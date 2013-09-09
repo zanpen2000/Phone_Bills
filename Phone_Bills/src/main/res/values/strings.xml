@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">查流量话费</string>
+    <string name="action_settings">Settings</string>
+    <color name="red">#FF0000</color>
+    <string name="smstip">我想知道：</string>
+    <string name="phonebill">还有多少话费</string>
+    <string name="netbill">还有多少流量</string>
+    <string name="msgTitle">信息已发送</string>
+    <string name="msgBody">请注意查收短信</string>
+    <string name="btnOK">我知道了</string>
+
+</resources>
